@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ziexter/static/css/main.fa898ad9.css",
+    "main.js": "/ziexter/static/js/main.a4276a90.js",
+    "index.html": "/ziexter/index.html",
+    "main.fa898ad9.css.map": "/ziexter/static/css/main.fa898ad9.css.map",
+    "main.a4276a90.js.map": "/ziexter/static/js/main.a4276a90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa898ad9.css",
+    "static/js/main.a4276a90.js"
+  ]
+}
