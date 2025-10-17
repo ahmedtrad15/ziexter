@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ziexter/static/css/main.fa898ad9.css",
-    "main.js": "/ziexter/static/js/main.75c914f5.js",
+    "main.css": "/ziexter/static/css/main.8c2d361c.css",
+    "main.js": "/ziexter/static/js/main.8a134832.js",
     "index.html": "/ziexter/index.html",
-    "main.fa898ad9.css.map": "/ziexter/static/css/main.fa898ad9.css.map",
-    "main.75c914f5.js.map": "/ziexter/static/js/main.75c914f5.js.map"
+    "main.8c2d361c.css.map": "/ziexter/static/css/main.8c2d361c.css.map",
+    "main.8a134832.js.map": "/ziexter/static/js/main.8a134832.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa898ad9.css",
-    "static/js/main.75c914f5.js"
+    "static/css/main.8c2d361c.css",
+    "static/js/main.8a134832.js"
   ]
 }
